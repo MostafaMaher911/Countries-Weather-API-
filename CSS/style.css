@@ -1,0 +1,19 @@
+.bg-main-color
+{
+    background-color: #1e202b;
+}
+.bg-sec-color
+{
+    background-color: #262936;
+}
+.app-container
+{
+    
+
+    background-image: url(https://routeweather.netlify.app/images/banner.png);
+    height: 100vh;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+}
